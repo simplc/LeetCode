@@ -1,7 +1,6 @@
 # LeetCode
-===
 
-My LeetCode solutions.
+**My LeetCode solutions.**
 
 |NO.|Title|Difficulty|Solution|
 |---|-----|----------|--------|
