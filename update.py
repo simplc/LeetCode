@@ -22,7 +22,7 @@ def get_sol():
             dif = re.match(r'(.*)(difficulty)([:\s]*)(\w+)', lines[2])
 
             sol = Solution()
-            sol.file_path = "ProblemSet\\" + f
+            sol.file_path = "ProblemSet/" + f
             sol.num = info.groups()[2]
             sol.name = info.groups()[5]
             sol.url = src.groups()[1]
