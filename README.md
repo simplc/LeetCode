@@ -5,8 +5,8 @@
 |NO.|Title|Difficulty|Solution|
 |---|-----|----------|--------|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|Hard|[C++](ProblemSet/51_N_Queens.cpp)|
-|51|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Easy|[C++](ProblemSet/53_Maximum_Subarray.cpp)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Hard|[C++](ProblemSet/52_N_Queens_II.cpp)|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Easy|[C++](ProblemSet/53_Maximum_Subarray.cpp)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Medium|[C++](ProblemSet/63_Unique_Paths_II.cpp)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|Easy|[C++](ProblemSet/70_Climbing_Stairs.cpp)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways)|Medium|[C++](ProblemSet/91_Decode_Ways.cpp)|
@@ -19,7 +19,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[C++](ProblemSet/300_Longest_Increasing_Subsequence.cpp)|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|Hard|[C++](ProblemSet/301_Remove_Invalid_Parentheses_v2.cpp)|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|Easy|[C++](ProblemSet/303_Range_Sum_Query_Immutable.cpp)|
-|304|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|Medium|[C++](ProblemSet/304_Range_Sum_Query_2D_Immutable.cpp)|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|Medium|[C++](ProblemSet/304_Range_Sum_Query_2D_Immutable.cpp)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|Medium|[C++](ProblemSet/322_Coin_Change.cpp)|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)|Medium|[C++](ProblemSet/377_Combination_Sum_IV.cpp)|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|Medium|[C++](ProblemSet/413_Arithmetic_Slices.cpp)|
