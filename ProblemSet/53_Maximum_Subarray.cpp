@@ -1,4 +1,4 @@
-// 51. Maximum Subarray
+// 53. Maximum Subarray
 // source: https://leetcode.com/problems/maximum-subarray
 // difficulty: Easy
 // author: simplc

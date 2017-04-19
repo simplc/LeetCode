@@ -1,4 +1,4 @@
-// 304. Range Sum Query - Immutable
+// 304. Range Sum Query 2D - Immutable
 // source: https://leetcode.com/problems/range-sum-query-2d-immutable
 // difficulty: Medium
 // author: simplc
