@@ -9,8 +9,8 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|Medium|[C++](ProblemSet/33_Search_in_Rotated_Sorted_Array.cpp)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Easy|[C++](ProblemSet/35_Search_Insert_Position.cpp)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|Hard|[C++](ProblemSet/42_Trapping_Rain_Water.cpp)|
-|51|[N](https://leetcode.com/problems/n-queens)|Hard|[C++](ProblemSet/51_N_Queens.cpp)|
-|52|[N](https://leetcode.com/problems/n-queens-ii)|Hard|[C++](ProblemSet/52_N_Queens_II.cpp)|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|Hard|[C++](ProblemSet/51_N_Queens.cpp)|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Hard|[C++](ProblemSet/52_N_Queens_II.cpp)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Easy|[C++](ProblemSet/53_Maximum_Subarray.cpp)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|Medium|[C++](ProblemSet/56_Merge_Intervals.cpp)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|Medium|[C++](ProblemSet/61_Rotate_List.cpp)|
@@ -27,8 +27,8 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|Medium|[C++](ProblemSet/216_Combination_Sum_III.cpp)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[C++](ProblemSet/300_Longest_Increasing_Subsequence.cpp)|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|Hard|[C++](ProblemSet/301_Remove_Invalid_Parentheses_v2.cpp)|
-|303|[Range Sum Query ](https://leetcode.com/problems/range-sum-query-immutable)|Easy|[C++](ProblemSet/303_Range_Sum_Query_Immutable.cpp)|
-|304|[Range Sum Query 2D ](https://leetcode.com/problems/range-sum-query-2d-immutable)|Medium|[C++](ProblemSet/304_Range_Sum_Query_2D_Immutable.cpp)|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|Easy|[C++](ProblemSet/303_Range_Sum_Query_Immutable.cpp)|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|Medium|[C++](ProblemSet/304_Range_Sum_Query_2D_Immutable.cpp)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|Medium|[C++](ProblemSet/322_Coin_Change.cpp)|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)|Medium|[C++](ProblemSet/377_Combination_Sum_IV.cpp)|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|Medium|[C++](ProblemSet/413_Arithmetic_Slices.cpp)|

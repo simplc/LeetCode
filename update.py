@@ -17,7 +17,7 @@ def get_sol():
             fp = open(dir_path + f, 'r')
             lines = fp.readlines()[:3]
 
-            info = re.match(r'(//)(\s*)(\d{1,3})(\.)(\s*)([\w -()]+)', lines[0])
+            info = re.match(r'(//)(\s*)(\d{1,3})(\.)(\s*)([\w \- \( \)]+)', lines[0])
             src = re.match(r'(.*)(https://leetcode.com/problems/.*)', lines[1])
             dif = re.match(r'(.*)(difficulty)([:\s]*)(\w+)', lines[2])
 
